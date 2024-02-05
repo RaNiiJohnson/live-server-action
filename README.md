@@ -1,3 +1,3 @@
 ## live server action (NextJS)
 
-best practice to understand server action on NextJS
+Best Practices for Understanding Server Actions in Next.js
